@@ -1,4 +1,4 @@
-# Human Resourse Dashboard
+# Human Resource Dashboard
 
 ## Overview
 ### This project presents a comprehensive HR Resource Dashboard developed using Power BI, aimed at providing insights into attrition patterns within the organization. By analyzing various factors such as education, years at the company, job satisfaction, salary, age, and job role, this dashboard offers valuable information to HR professionals for better decision-making and strategic planning. <br> 
