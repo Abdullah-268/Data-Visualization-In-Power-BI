@@ -10,4 +10,5 @@
 * Attrition by Age: Explores attrition patterns across different age groups, identifying any age-related trends in employee retention.
 * Attrition by Job Role: Breaks down attrition rates based on job roles within the organization, helping to pinpoint areas of high turnover and potential retention strategies.
 
-![Hr Analytics Dashboard](https://github.com/Abdullah-268/Data-Visualization-In-Power-BI/assets/169019486/9848b45f-b6a3-46eb-98b4-3e086096caff)
+![Edited in windows](https://github.com/Abdullah-268/Data-Visualization-In-Power-BI/assets/169019486/b40b6556-8c6a-4ebd-b271-b4a5d3169e56)
+
